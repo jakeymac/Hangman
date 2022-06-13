@@ -3,8 +3,6 @@
 
 This is a simple hangman game written completely in C++, with a few accompanying text files that provide the word lists that the program provides for the user to guess. I wrote this program to learn the basics and syntax of C++ and to practice certain principles within C++, specifically file manipulation and retreival. 
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.  Focus should be on sharing what you learned about the language syntax.}
-
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
