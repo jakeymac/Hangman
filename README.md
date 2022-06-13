@@ -3,7 +3,7 @@
 
 This is a simple hangman game written completely in C++, with a few accompanying text files that provide the word lists that the program provides for the user to guess. I wrote this program to learn the basics and syntax of C++ and to practice certain principles within C++, specifically file manipulation and retreival. 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/zCO8ohbdDDQ)
 
 # Development Environment
 I used Virtual Studio Code to write this program. I wrote everything in C++, and used 
