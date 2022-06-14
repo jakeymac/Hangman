@@ -1,0 +1,13 @@
+horse
+chicken
+barn
+farmer
+fence
+sheep
+stable
+donkey
+cow
+hi ther
+land
+grass
+Milk
